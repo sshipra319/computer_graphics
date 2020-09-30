@@ -1,6 +1,3 @@
-# Shipra Saini
-# sxs2152
-# 2018-10-02
 
 #----------------------------------------------------------------------
 # This code was originally created by Prof. Farhad Kamangar.
