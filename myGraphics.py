@@ -1,13 +1,4 @@
-# Shipra Saini
-# sxs2152
-# 2018-10-02
 
-#----------------------------------------------------------------------
-# This code was originally created by Prof. Farhad Kamangar.
-# It has been significantly modified and updated by Brian A. Dalio for
-# use in CSE 4303 / CSE 5365 in the 2018 Fall semester.
-
-#----------------------------------------------------------------------
 class cl_world :
   def __init__( self, objects = [], canvases = [] ) :
     self.objects = objects
