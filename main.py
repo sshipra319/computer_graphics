@@ -1,9 +1,7 @@
 
 #----------------------------------------------------------------------
 # This code was originally created by Prof. Farhad Kamangar.
-# It has been significantly modified and updated by Brian A. Dalio for
-# use in CSE 4303 / CSE 5365 in the 2018 Fall semester.
-
+# It has been significantly modified and updated by Brian A. Dalio
 #----------------------------------------------------------------------
 # The initialization of tkinter is deeply recursive.  On Ubuntu, the
 # limit is too low for tkinter to succeed.  Trial-and-error has shown
