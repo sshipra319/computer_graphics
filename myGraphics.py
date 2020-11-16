@@ -1,4 +1,6 @@
 
+
+
 class cl_world :
   def __init__( self, objects = [], canvases = [] ) :
     self.objects = objects
